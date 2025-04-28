@@ -1,0 +1,7 @@
+minimum_approvals: 2
+require_description: true
+require_resolved_conversations: true
+required_labels: []
+auto_assign_reviewers: true
+reviewers:
+  - reviewer1
