@@ -15,6 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    "git-commit": "./git-commit-template.sh && git commit -F commit-message.txt"
   },
   "eslintConfig": {
     "extends": "react-app"
