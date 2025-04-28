@@ -1,0 +1,12 @@
+[github_app]
+pr_commands = ["/review"]
+
+[pr_reviewer]
+extra_instructions = """
+- Ensure code follows the project's coding standards.
+- Verify that all new functions have corresponding unit tests.
+- Check for clear and concise documentation in code comments.
+"""
+persistent_comment = true
+final_update_message = true
+require_pr_description = true
