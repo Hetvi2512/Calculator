@@ -4,6 +4,7 @@ import { Component } from 'react';
 import Calculator from './page/calculator/calculator';
 
 class App extends Component {
+  console.log("Hello")
   render(){
     return (
       <div className="App">
