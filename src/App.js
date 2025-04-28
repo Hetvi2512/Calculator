@@ -6,6 +6,7 @@ import Calculator from './page/calculator/calculator';
 class App extends Component {
   console.log("Hello");
   const a = 10;
+  
   render(){
     return (
       <div className="App">
